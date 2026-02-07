@@ -3,7 +3,6 @@
 ![Luanti](https://img.shields.io/badge/Engine-Luanti-brightgreen)
 ![Mode](https://img.shields.io/badge/Mode-Singleplayer%20%26%20Multiplayer-blue)
 ![Sandbox](https://img.shields.io/badge/Style-Sandbox-orange)
-![Modular](https://img.shields.io/badge/Architecture-Modular-yellow)
 ![Version](https://img.shields.io/badge/Version-Alpha-informational)
 ![Status](https://img.shields.io/badge/Status-In%20Development-purple)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
