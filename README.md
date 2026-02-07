@@ -19,6 +19,8 @@ Blocklife is currently in active development and does not yet have a finalized p
 
 Basic world mechanics and survival mechanics.
 
+---
+
 ## In Development
 
 ### Farming
