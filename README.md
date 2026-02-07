@@ -7,17 +7,23 @@
 ![Status](https://img.shields.io/badge/Status-In%20Development-purple)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-Blocklife is a voxel sandbox survival game built on the Luanti game engine, designed primarily for multiplayer experiences. Players explore vast, diverse environments together, battle dangerous creatures, and shape the world through building, crafting, and discovery. Hidden structures, evolving landscapes, and emergent gameplay support long-term shared worlds and community-driven progression. The game blends exploration, combat, and construction into a flexible, player-driven experience. Rather than enforcing a single playstyle, Blocklife emphasizes player freedom—supporting cooperative survival, role-based communities, large shared servers, and peaceful exploration. Its modular design keeps gameplay systems adaptable and easy to expand or modify, making it well suited for long-running multiplayer worlds. Blocklife features a robust farming system, a wide variety of hostile mobs, and deep crafting mechanics that include tools, equipment, and technologies ranging from practical and modern to advanced and mystical. The world is inhabited by NPCs, including native cultures and BAX researchers, who provide interaction, progression, and narrative depth. Players can also earn achievements as they explore, build, and advance together.
+Blocklife is a voxel sandbox survival game built on the Luanti game engine, designed primarily for multiplayer experiences. Players explore vast, diverse environments together, and shape the world through building, crafting, engineering, farming and discovery. Blocklife operates as a client–server multiplayer game built on the Luanti (formerly Minetest) engine. All game logic, world data, and player progression are hosted on a server, while players connect using the Luanti client installed locally on their own devices. Blocklife does not run in a web browser; each player must download and install the Luanti client, which is available for Windows, macOS, and Linux, in order to connect to a Blocklife server. Servers are intended to be hosted independently, and running Blocklife on a VPS (Virtual Private Server) is strongly recommended to ensure 24/7 uptime, stable performance, persistent worlds, reliable multiplayer connectivity, and proper security and backup capabilities.
 
 Blocklife is currently in active development and does not yet have a finalized public release.
 
+[![Luanti Website](https://img.shields.io/badge/Website-Luanti-brightgreen)](https://www.luanti.org)
+
 ---
 
-# Blocklife — Luanti (Minetest) Server
+## Current Features
 
-Blocklife — Luanti (Minetest) operates as a client–server multiplayer game built on the Luanti (formerly Minetest) engine. All game logic, world data, and player progression are hosted on a server, while players connect using the Luanti client installed locally on their own devices. Blocklife does not run in a web browser; each player must download and install the Luanti client, which is available for Windows, macOS, and Linux, in order to connect to a Blocklife server. Servers are intended to be hosted independently, and running Blocklife on a VPS (Virtual Private Server) is strongly recommended to ensure 24/7 uptime, stable performance, persistent worlds, reliable multiplayer connectivity, and proper security and backup capabilities.
+Basic world mechanics and survival mechanics.
 
-[![Luanti Website](https://img.shields.io/badge/Website-Luanti-brightgreen)](https://www.luanti.org)
+## In Development
+
+### Farming
+
+Features a robust and flexible farming system that allows players to grow crops on land and trees, cultivate a variety of fungi, raise and manage animals, and operate fish farms. Players can harvest and process animal products, experiment with different farming techniques, and optimize production through the use of specialized farming structures and advanced agricultural technology.
 
 ---
 
