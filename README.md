@@ -17,7 +17,7 @@ Blocklife is currently in active development and does not yet have a finalized p
 
 ## Current Features
 
-Basic world mechanics and survival mechanics.
+The game features core world and survival mechanics based on the standard Minetest experience, set within a vibrant tropical island paradise. Players must gather resources, craft tools, and manage basic survival needs while exploring lush islands, beaches, and jungles.
 
 ---
 
