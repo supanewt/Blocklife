@@ -90,7 +90,15 @@ end
 -- Spawn position search
 
 local function search()
-	local edge1, edge2 = core.get_mapgen_edges()
+	local edge1, edge2
+	if core.get_mapgen_edges then
+		edge1, edge2 = core.get_mapgen_edges()
+	end
+	if not edge1 or not edge2 then
+		-- Fallback bounds for engines that lack get_mapgen_edges.
+		edge1 = {x = -30927, y = -64, z = -30927}
+		edge2 = {x = 30927, y = 30927, z = 30927}
+	end
 	for iter = 1, checks do
 		local biome_data = minetest.get_biome_data(pos)
 		-- Sometimes biome_data is nil

@@ -1,13 +1,14 @@
-# 🌴 Blocklife
+# Blocklife
 
-![Luanti](https://img.shields.io/badge/Engine-Luanti-brightgreen)
-![Mode](https://img.shields.io/badge/Mode-Singleplayer%20%26%20Multiplayer-blue)
-![Sandbox](https://img.shields.io/badge/Style-Sandbox-orange)
-![Modular](https://img.shields.io/badge/Architecture-Modular-yellow)
-![Version](https://img.shields.io/badge/Version-Alpha-informational)
-![Status](https://img.shields.io/badge/Status-In%20Development-purple)
-![License](https://img.shields.io/badge/License-Open%20Source-lightgrey)
+Blocklife is a base game template for the **Blocklife Luanti Modding community**, built on **Luanti (Minetest)**. It is a simple, peaceful sandbox experience with no built-in enemy mobs or hard goals. While it provides a basic gameplay experience out of the box, it is best played with mods. Blocklife provides the core systems and mechanics needed to start a game while keeping everything modular so players and creators can expand their experience with official and community mods.
 
-Blocklife is a voxel sandbox survival game built on the Luanti game engine, designed for both singleplayer and multiplayer play. Players explore, fight, and build to shape the land to their will, traveling across diverse environments, uncovering hidden structures, and carving out their place in a living, block-based world. The game blends exploration, combat, and creativity into a flexible, player-driven experience. Blocklife emphasizes player freedom rather than forcing a single playstyle. Its modular design keeps gameplay systems flexible and easy to expand or modify, making it suitable for peaceful exploration, challenging survival worlds, cooperative servers, or long-term shared communities. The game features a robust farming system, a wide variety of dangerous mobs, and deep crafting systems that include tools, gear, and technologies ranging from simple and modern to advanced and mystical. The world is inhabited by NPCs, including native cultures and BAX researchers, who add interaction, progression, and depth to the environment. Players can also earn achievements as they explore, build, and advance through the game. Blocklife is currently in development and does not yet have a completed public release.
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/C4qvZt7RYQ)
 
 ---
+
+## Luanti Engine
+
+Blocklife is built on the **Luanti Engine** (formerly Minetest), a free and open-source voxel game engine.  
+For now, players must have Luanti installed in order to run and play Blocklife:
+
+[![Luanti](https://img.shields.io/badge/Luanti-Download%20Client-3a7d44?logo=github&logoColor=white)](https://www.luanti.org/)
